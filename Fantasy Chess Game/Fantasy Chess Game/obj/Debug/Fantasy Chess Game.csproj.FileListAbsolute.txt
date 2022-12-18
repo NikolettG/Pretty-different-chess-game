@@ -1,0 +1,15 @@
+C:\Users\Nikolett Gal\source\repos\Fantasy Chess Game\Fantasy Chess Game\bin\Debug\Fantasy Chess Game.exe.config
+C:\Users\Nikolett Gal\source\repos\Fantasy Chess Game\Fantasy Chess Game\bin\Debug\Fantasy Chess Game.exe
+C:\Users\Nikolett Gal\source\repos\Fantasy Chess Game\Fantasy Chess Game\bin\Debug\Fantasy Chess Game.pdb
+C:\Users\Nikolett Gal\source\repos\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.csproj.AssemblyReference.cache
+C:\Users\Nikolett Gal\source\repos\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.csproj.CoreCompileInputs.cache
+C:\Users\Nikolett Gal\source\repos\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.exe
+C:\Users\Nikolett Gal\source\repos\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.pdb
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\bin\Debug\Fantasy Chess Game.exe.config
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\bin\Debug\Fantasy Chess Game.exe
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\bin\Debug\Fantasy Chess Game.pdb
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.csproj.AssemblyReference.cache
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.csproj.CoreCompileInputs.cache
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.exe
+C:\Users\Nikolett\Downloads\Fantasy-Chess-Game\Fantasy Chess Game\Fantasy Chess Game\obj\Debug\Fantasy Chess Game.pdb
